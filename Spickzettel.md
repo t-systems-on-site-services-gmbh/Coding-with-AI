@@ -3,10 +3,11 @@
 ## Defaults für VSCode
 - Inline-Vorschlag akzeptieren: `Tab`
 - Inline-Vorschlag ablehnen: `Esc`
-- Nächster Inline-Vorschlag: `Alt + ´` (auf deutschen Tastaturen könnte dies `Alt + ]` entsprechen)
-- Vorheriger Inline-Vorschlag: `Alt + ß` (könnte `Alt + [` auf deutschen Tastaturen sein)
-- Inline-Vorschläge manuell triggern: `Alt + ^` (auf deutschen Tastaturen könnte dies `Alt + \ ` sein)
-- GitHub Copilot öffnen (zusätzliche Vorschläge in separatem Bereich): `Strg + Enter`
+- Inline-Vorschlag auslösen: `Alt + ^`
+- Vervollständigungen-Panel öffnen: `Strg + Enter`
+- Panel-Vorschlag am Cursor akzeptieren: `Strg + #`
+- Zum nächsten Panel-Vorschlag navigieren: `Alt + '`
+- Zum vorherigen Panel-Vorschlag navigieren: `Alt + ß`
 
 ## Defaults für IntelliJ IDEA
 - Inline-Vorschlag akzeptieren: `Tab`
