@@ -2,7 +2,7 @@
 
 ## Aufgabe
 
-In dieser Übung sollt ihr ein einfacher REST-Service erstellt werden. Das Service soll die Ressource "Task" verwalten. Eine Task hat folgende Eigenschaften:
+In dieser Übung soll ein einfacher REST-Service erstellt werden. Das Service soll die Ressource "Task" verwalten. Eine Task hat folgende Eigenschaften:
 
 - id: Long
 - description: String
@@ -48,6 +48,8 @@ Eine Task hat folgende Eigenschaften:
 ```
 // Spring-Boot Controller
 ```
+
+- Implementiert und testet den Controller mit einer fest verdrateten Liste von Tasks.
 
 ## Ergebnisse
 
