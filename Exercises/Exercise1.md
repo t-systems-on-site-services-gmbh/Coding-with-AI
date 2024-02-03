@@ -43,7 +43,7 @@ Eine Task hat folgende Eigenschaften:
  */
 ```
 
-- Legt die Klasse TaskController an. Löscht die Klassendefinition. Experimentiert mit präzisens Top-Level Kommentaren. Beispiel:
+- Legt die Klasse TaskController an. Löscht die Klassendefinition. Experimentiert mit präzisen Top-Level Kommentaren. Beispiel:
 
 ```
 // Spring-Boot Controller
