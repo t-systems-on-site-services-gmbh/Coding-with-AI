@@ -2,7 +2,7 @@
 
 ## Aufgabe
 
-In dieser Übung sollt ihr ein einfaches REST-Service implementieren. Das Service soll die Ressource "Task" verwalten. Eine Task hat folgende Eigenschaften:
+In dieser Übung sollt ihr ein einfacher REST-Service erstellt werden. Das Service soll die Ressource "Task" verwalten. Eine Task hat folgende Eigenschaften:
 
 - id: Long
 - description: String
@@ -11,9 +11,9 @@ In dieser Übung sollt ihr ein einfaches REST-Service implementieren. Das Servic
 
 Das Enum Effort hat folgende Werte:
 
-- ONE_HOUR(1),
-- TWO_HOURS(2),
-- FOUR_HOURS(4);
+- ONE_HOUR(1)
+- TWO_HOURS(2)
+- FOUR_HOURS(4)
 
 Wir brauchen ein Package `onsite.academy.myworkday.model` und ein weiteres Package `onsite.academy.myworkday.controller`.
 
