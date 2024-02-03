@@ -19,7 +19,7 @@ Wir brauchen ein Package `onsite.academy.myworkday.model` und ein weiteres Packa
 
 ## Vorbereitung
 
-- Forked das Repository oder downloaded den Code "https://"
+- Repository forken oder den Code downloaden: https://github.com/t-systems-on-site-services-gmbh/MyWorkday/tree/main
 - Öffnet das Projekt in einer IDE (z.B. IntelliJ IDEA)
 - Baut das Projekt mit gradle `./gradlew build` oder `gradlew.bat build` (Windows) bzw. mit der Gradle-View in IntelliJ IDEA
 
