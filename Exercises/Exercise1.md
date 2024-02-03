@@ -49,6 +49,8 @@ Eine Task hat folgende Eigenschaften:
 // Spring-Boot Controller
 ```
 
+- Implementiert und testet den Controller mit einer fest verdrateten Liste von Tasks.
+
 ## Ergebnisse
 
 - Für das Fachobjekt "Task" wurden REST-Endpunkte implementiert. Die Endpunkte sind unter `/tasks` erreichbar.
