@@ -17,7 +17,7 @@ Das Enum Effort hat folgende Werte:
 
 Wir brauchen ein Package `onsite.academy.myworkday.model` und ein weiteres Package `onsite.academy.myworkday.controller`.
 
-## Vorbereitung
+## Erste Schritte
 
 - Repository forken oder den Code downloaden: https://github.com/t-systems-on-site-services-gmbh/MyWorkday/tree/main
 - Öffnet das Projekt in einer IDE (z.B. IntelliJ IDEA)
@@ -30,7 +30,7 @@ Wir brauchen ein Package `onsite.academy.myworkday.model` und ein weiteres Packa
 package onsite.academy.myworkday.model;
 // Task 
 ```
-- Verwerft den Vorschlag mit Esc oder löscht den generierten Code. Erstellt einen Kommentarblock mit folgendem Inhalt. Was passiert nachdem ihr den Kommentarblock geschlossen habt?
+- Verwerft den Vorschlag mit Esc oder löscht den generierten Code. Erstellt einen Kommentarblock mit folgendem Inhalt. Was passiert nachdem ihr den Kommentarblock geschlossen habt und der Curser in der Zeile darunter steht?
 ```
 /*
 Eine Task hat folgende Eigenschaften:
@@ -51,7 +51,7 @@ Eine Task hat folgende Eigenschaften:
 
 - Implementiert und testet den Controller mit einer fest verdrateten Liste von Tasks.
 
-## Ergebnisse
+## Erreichter Zustand
 
 - Für das Fachobjekt "Task" wurden REST-Endpunkte implementiert. Die Endpunkte sind unter `/tasks` erreichbar.
 - Die HTTP GET-Methode gibt eine (fest verdratete) Liste aller Tasks zurück. Testet das mit dem Http-Client von IntelliJ IDEA oder mit einem Browser.

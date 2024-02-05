@@ -1,4 +1,4 @@
-# GitHub Copilot Tastenkürzel (Deutsches Tastaturlayout)
+# GitHub Copilot Spickzettel (Deutsches Tastaturlayout)
 
 ## Defaults für VSCode
 - Inline-Vorschlag akzeptieren: `Tab`
@@ -17,5 +17,14 @@
 - Vervollständigungen anzeigen: `Alt + \`
 - Vorherige Vervollständigungen anzeigen: `Alt + ,` oder `Strg + ,`
 - Nächste Vervollständigungen anzeigen: `Alt + .` oder `Strg + .`
+
+## GitHub Copilot-Kommandos
+- `/tests` - Generiere Unit-Tests für den aktuellen Code.
+- `/simplify` - Vereinfache den aktuellen Code.
+- `/fix` - Behebe Probleme und Fehler im Code.
+- `/explain` - Erkläre, wie der ausgewählte Code funktioniert.
+- `/doc` - Dokumentiere die aktuelle Codeauswahl.
+- `/feedback` - Schritte, um Feedback zu geben.
+
 
 
