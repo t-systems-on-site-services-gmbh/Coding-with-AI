@@ -15,12 +15,11 @@ Das Enum Effort hat folgende Werte:
 - TWO_HOURS(2)
 - FOUR_HOURS(4)
 
-Wir brauchen ein Package `onsite.academy.myworkday.model` und ein weiteres Package `onsite.academy.myworkday.controller`.
-
 ## Erste Schritte
 
 - Repository forken oder den Code downloaden: https://github.com/t-systems-on-site-services-gmbh/MyWorkday/tree/main
 - Öffnet das Projekt in einer IDE (z.B. IntelliJ IDEA)
+- Wir brauchen ein Package `onsite.academy.myworkday.model` und ein weiteres Package `onsite.academy.myworkday.controller`.
 - Baut das Projekt mit gradle `./gradlew build` oder `gradlew.bat build` (Windows) bzw. mit der Gradle-View in IntelliJ IDEA
 
 ## Experimente
