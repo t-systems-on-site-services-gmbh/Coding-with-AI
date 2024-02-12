@@ -10,7 +10,7 @@
 
 ## Experimente
 
-- Arbeitet mit den Vorschlägen von GithubCopilot und eurer Entwiklungsumgebung. Versucht den Service mit den CRUD-Methoden in eure Anwendung zu integrieren, ohne eine Zeile Code selbst zu tippen. Löschen von vorhandenem ode generiertem Code ist natürlich erlaubt!
+- Arbeitet mit den Vorschlägen von GithubCopilot und eurer Entwiklungsumgebung. Versucht den Service mit den CRUD-Methoden in eure Anwendung zu integrieren, ohne eine Zeile Code selbst zu tippen. Löschen von vorhandenem oder generiertem Code ist natürlich erlaubt!
 
 
 ## Erreichter Zustand
