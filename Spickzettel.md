@@ -3,6 +3,7 @@
 ## Defaults für VSCode
 - Inline-Vorschlag akzeptieren: `Tab`
 - Inline-Vorschlag ablehnen: `Esc`
+- Inline-Vorschlag wortweise annehmen: `Strg + ->`
 - Inline-Vorschlag auslösen: `Alt + ^`
 - Vervollständigungen-Panel öffnen: `Strg + Enter`
 - Panel-Vorschlag am Cursor akzeptieren: `Strg + #`
@@ -12,6 +13,7 @@
 ## Defaults für IntelliJ IDEA
 - Inline-Vorschlag akzeptieren: `Tab`
 - Inline-Vorschlag ablehnen: `Esc`
+- Inline-Vorschlag wortweise annehmen: `Strg + ->`
 - Copilot-Vorschläge einschalten/ausschalten: `Strg + Alt + Umschalt + O`
 - Copilot-Aktivierungen für die Datei deaktivieren: `Strg + Alt + Umschalt + O`
 - Vervollständigungen anzeigen: `Alt + \`
