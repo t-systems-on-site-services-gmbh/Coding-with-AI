@@ -24,7 +24,9 @@ Das Enum Effort hat folgende Werte:
 
 ## Experimente
 
-- Legt die Datei für die Klasse Task an. Löscht die Klassendefinition. Direkt unterhalb der Package-Deklaration startet ihr einen Kommentar wie unten sichtbar. Was passiert?
+- Legt die Datei für die Klasse `Task` im Package im Package `onsite.academy.myworkday.model` an. Löscht die Klassendefinition. Direkt unterhalb der Package-Deklaration startet ihr einen Kommentar wie unten sichtbar. Was passiert?
+- Was passiert wenn ihr ´Tab´ drückt und mit Enter in die nächste Zeile springt?
+  
 ```
 package onsite.academy.myworkday.model;
 // Task 
@@ -41,6 +43,13 @@ Eine Task hat folgende Eigenschaften:
 
  */
 ```
+
+- Bestätigt jeden Vorschlag mit `Tab` und wechslt mit `<Enter>` in die nächste Zeile. Fahrt so lange fort, bis keine Vorschläge mehr kommen.
+- Wenn Dinge generiert wurden, die ihr nicht braucht, löscht diese einfach.
+- Legt die Datei für das Enum ´Effort´ im Package ´onsite.academy.myworkday.model´ an.
+- Geht bei der Implementierung so vor, wie schon beim erstellen der Klasse Task.
+
+
 
 - Legt die Klasse TaskController an. Löscht die Klassendefinition. Experimentiert mit präzisen Top-Level Kommentaren. Beispiel:
 
