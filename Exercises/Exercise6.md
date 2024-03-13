@@ -16,6 +16,7 @@ Euer Dashboard soll ein Bild als Hintergrund fensterfüllend anzeigen. Das Bild 
 - Denkt daran, dass die relevanten Dateien geöffnet sein müssen, damit GithubCopilot brauchbare Verbesserungsvorschläge machen kann.
 - Wird immer das selbe Bild angezeigt? Wie könnt ihr das ändern?
 - Was müsst ihr tun, damit das API-Token benutzt werden kann, aber nicht commited wird?
+- Kann man die Lösung einfacher oder besser gestalten? Testet `/simplify`.
 
 
 ## Erreichter Zustand
